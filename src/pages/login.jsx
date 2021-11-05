@@ -13,7 +13,7 @@ const mapStateToProps = ({ session }) => ({
 });
 
 const Login = function Login({ fetchLogin, sessionState, history }) {
-	const [credentials, setCredentials] = useState({ email: 'zboncak.nathen@example.org', password: 'password' });
+	const [credentials, setCredentials] = useState({ email: '', password: '' });
 	const setCredentialsByKey = (key, value) => {
 		setCredentials((prevState) => ({ ...prevState, [key]: value }));
 	};
