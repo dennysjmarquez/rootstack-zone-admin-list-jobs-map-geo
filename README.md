@@ -24,7 +24,7 @@
 11. Paginación de la data en el Data Table.
     </br></br>
 
-## DEMO [https://rootstack-zone-admin-list-jobs.herokuapp.com/](https://rootstack-zone-admin-list-jobs.herokuapp.com/)
+## DEMO [https://dennysjmarquez.github.io/rootstack-zone-admin-list-jobs-map-geo/demo](https://dennysjmarquez.github.io/rootstack-zone-admin-list-jobs-map-geo/demo)
 
 ---
 
